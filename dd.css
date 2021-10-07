@@ -1,0 +1,13 @@
+ody {
+    padding: 50px;
+}
+table{
+    width: 50%;
+    border-collapse: collapse;
+}
+td,th{padding: 15px;
+    border: 1px solid black
+}
+
+h2 {background: red;}
+table {background:yellow}
